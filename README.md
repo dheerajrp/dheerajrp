@@ -8,7 +8,6 @@
 
 - ⚡ Fun fact **I like only masala in masala puri**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
