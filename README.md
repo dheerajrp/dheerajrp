@@ -4,8 +4,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/dheerajrp](https://github.com/dheerajrp)
 
-- 📫 How to reach me **dheerajrp66@gmail.com**
-
 - ⚡ Fun fact **I like only masala in masala puri**
 
 <p align="left">
