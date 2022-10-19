@@ -6,7 +6,7 @@
 
 - ⚡ Fun fact **I like only masala in masala puri**
 
-- Checkout my resume [here](https://github.com/dheerajrp/dheerajrp/blob/master/resume_dheeraj_rp.pdf)
+- Checkout my resume [here](https://dheerajrp.github.io/dheerajrp/)
 
 <p align="left">
 </p>
