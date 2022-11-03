@@ -1,6 +1,10 @@
 <h1 align="left">Hi 👋 </h1>
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge)
+
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdheerajrp%2Fdheerajrp&label=visitors&labelColor=%23dce775&countColor=%23f47373&style=flat-square)
+
+
+![GitHub followers](https://img.shields.io/github/followers/dheerajrp?style=social)
 
 - 👨‍💻 All of my projects are available at [https://github.com/dheerajrp](https://github.com/dheerajrp)
 
