@@ -1,10 +1,9 @@
-<h1 align="left">Hi 👋 Dheeraj here</h1>
+<h1 align="left">Hi 👋 </h1>
 
-- 🌱 I’m currently learning **Machine Learning**
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge)
 
 - 👨‍💻 All of my projects are available at [https://github.com/dheerajrp](https://github.com/dheerajrp)
 
-- ⚡ Fun fact **I like only masala in masala puri**
 
 - Checkout my resume [here](https://dheerajrp.github.io/dheerajrp/)
 
