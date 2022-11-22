@@ -9,7 +9,7 @@ Eternal Love: Machine Learning | Deep Learning | NLP
 - 👨‍💻 All of my projects are available at [https://github.com/dheerajrp](https://github.com/dheerajrp)
 
 
-- Checkout my resume [here](https://dheerajrp.github.io/dheerajrp/)
+- Checkout my resume [here](https://github.com/dheerajrp/dheerajrp/blob/master/Dheeraj_Resume.docx.pdf)
 
 <p align="left">
 </p>
